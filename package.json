@@ -1,0 +1,17 @@
+{
+  "name": "@clysema/ebrain-iot-queues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "better-queue": "^3.8.10",
+    "better-queue-sqlite": "^1.0.6",
+    "sqlite3": "^5.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
